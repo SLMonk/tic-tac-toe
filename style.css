@@ -1,4 +1,4 @@
-/* Write all your CSS style code in this file! */
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans');
 body {
   background-image: url(http://www.psdgraphics.com/file/black-diamond-plate.jpg);
 background-size: 100%;
@@ -6,7 +6,7 @@ background-size: 100%;
 
 h1 {
   font-family: Indie Flower;
-  color: Red;
+  color: white;
   text-align: center;
   font-size: 65px;
 }
