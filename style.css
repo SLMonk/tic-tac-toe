@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Bungee');
 body {
   background-image: url(http://www.psdgraphics.com/file/black-diamond-plate.jpg);
 background-size: 100%;
 }
 
 h1 {
-  font-family: Indie Flower;
+  font-family: 'Bungee', cursive;
   color: white;
   text-align: center;
   font-size: 65px;
